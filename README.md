@@ -1,1 +1,1 @@
-# THINK-DADDY
+A program to demand a user to backup their THANKDADDY Online Account with 3 words and if @ # $ %  Characters Are Included the program should be able to tell the user to use another Word without those Characters
